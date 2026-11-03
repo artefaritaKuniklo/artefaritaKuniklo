@@ -1,8 +1,7 @@
 # artefaritaKuniklo
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=artefaritaKuniklo&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=artefaritaKuniklo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=artefaritaKuniklo&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=artefaritaKuniklo&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=artefaritaKuniklo&langs_count=6&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=artefaritaKuniklo&langs_count=6&theme=shadow_blue)
 
 ## Selected work
 
@@ -12,7 +11,13 @@
 
 ## Achievements
 
-Arctic Code Vault Contributor
+![Arctic Code Vault Contributor](https://github.com/users/artefaritaKuniklo/achievements/arctic-code-vault-contributor)
+
+## Pinned
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=ItozakuraClinic%2FeRxGen&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/ItozakuraClinic/eRxGen)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=artefaritaKuniklo%2Fheartbeat.oau&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/artefaritaKuniklo/heartbeat.oau)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=project-trans%2FRLE-wiki&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/project-trans/RLE-wiki)
 
 ## Stack
 
