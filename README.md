@@ -11,7 +11,7 @@
 
 ## Achievements
 
-![Arctic Code Vault Contributor](https://github.com/users/artefaritaKuniklo/achievements/arctic-code-vault-contributor)
+[Arctic Code Vault Contributor](https://github.com/users/artefaritaKuniklo/achievements/arctic-code-vault-contributor)
 
 ## Pinned
 
