@@ -17,7 +17,9 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=ItozakuraClinic%2FeRxGen&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/ItozakuraClinic/eRxGen)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=artefaritaKuniklo%2Fheartbeat.oau&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/artefaritaKuniklo/heartbeat.oau)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=project-trans%2FRLE-wiki&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/project-trans/RLE-wiki)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=artefaritaKuniklo&repo=one-among-us%2Fdata&show_owner=true&description_lines_count=3&theme=shadow_blue)](https://github.com/one-among-us/data)
 
 ## Stack
 
