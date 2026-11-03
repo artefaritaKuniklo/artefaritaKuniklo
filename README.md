@@ -6,14 +6,13 @@
 
 ## Selected work
 
-- **One Among Us** — contributor · memorial data repository (5,000+ commits) — [one-among.us](https://one-among.us)
-- **TransInAcademia Library** — contributor — [lib.transinacademia.org](https://lib.transinacademia.org)
 - **eRxGen** (ItozakuraClinic) — author — [erxg.vercel.app](https://erxg.vercel.app)
-- **LUAD pembrolizumab resistance — scRNA-seq** (Turing-Biotech) — contributor — [repository](https://github.com/Turing-Biotech/LUAD-Pembrolizumab-Resistance-scRNAseq)
+- **One Among Us** — **contributor** · memorial data repository — [one-among.us](https://one-among.us)
+- **TransInAcademia Library** — **contributor** — [lib.transinacademia.org](https://lib.transinacademia.org)
 
-## GitHub achievements
+## Achievements
 
-Arctic Code Vault Contributor · Pair Extraordinaire · Pull Shark (bronze &#215;2) · YOLO
+Arctic Code Vault Contributor
 
 ## Stack
 
