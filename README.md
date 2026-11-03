@@ -1,8 +1,8 @@
 # artefaritaKuniklo
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artefaritaKuniklo&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=artefaritaKuniklo&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=artefaritaKuniklo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=artefaritaKuniklo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Selected work
 
